@@ -15,7 +15,7 @@
 - [11장 시스템](https://github.com/postpone-jin/cleanCode/blob/main/11%EC%9E%A5%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
 - [12장 창발성](https://github.com/postpone-jin/clean-code/blob/main/12%EC%9E%A5%20%EC%B0%BD%EB%B0%9C%EC%84%B1.md)
 - [13장 동시성](https://github.com/postpone-jin/clean-code/blob/main/13%EC%9E%A5%20%EB%8F%99%EC%8B%9C%EC%84%B1.md)
-- 14장 점진적인 개선
+- [14장 점진적인 개선](https://github.com/postpone-jin/clean-code/blob/main/14%EC%9E%A5%20%EC%A0%90%EC%A7%84%EC%A0%81%EC%9D%B8%20%EA%B0%9C%EC%84%A0.md)
 - 15장 JUnit 들여다보기
 - 16장 SerialDate 리팩터링
 - 17장 냄새와 휴리스틱
